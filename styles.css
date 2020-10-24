@@ -1,0 +1,215 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.nav1 {
+  background-color: black;
+  color: white;
+  height: 30px;
+}
+
+.nav1 p {
+  font-size: smaller;
+  margin-top: 8px;
+}
+.nav1 ul a {
+  color: white;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  font-size: 15px;
+  padding: 4px;
+  padding-left: 3px;
+}
+
+.div1 {
+  background-color: black;
+}
+.div2 {
+  background-color: #002a53;
+  width: auto;
+}
+.header-btn {
+  border-radius: 0%;
+  background-color: rgb(7, 23, 37);
+  color: rgb(231, 183, 49);
+  margin-right: auto;
+}
+.header-btn:hover {
+  color: rgb(231, 183, 49);
+  background-color: rgb(9, 30, 51);
+}
+.drop1 {
+  background-color: rgb(7, 23, 37);
+}
+.dropdown-item {
+  color: white;
+}
+.dropdown-item:hover {
+  background-color: rgb(10, 32, 51);
+  border-left: 5px solid rgb(5, 103, 201);
+  color: rgb(40, 75, 116);
+}
+table {
+  width: max-content;
+}
+
+table thead th {
+  color: rgb(40, 75, 116);
+  font-size: small;
+}
+.icon {
+  width: 15px;
+}
+
+table tbody {
+  background-color: rgb(7, 23, 37);
+  color: white;
+  font-size: small;
+}
+table tbody th {
+  padding: 5px;
+  padding-right: 20px;
+}
+table tbody:hover {
+  border-bottom: 3px solid rgb(5, 103, 201);
+}
+.table-span {
+  margin-left: 30px;
+}
+.header-btn2 {
+  border-radius: 0%;
+  background-color: rgb(7, 23, 37);
+  color: rgb(40, 75, 116);
+  margin-left: 350px;
+  width: max-content;
+  height: 80px;
+}
+
+.header-btn2:hover {
+  color: rgb(5, 103, 201);
+  background-color: rgb(29, 56, 87);
+}
+
+/*  mega menu  */
+.nav2 {
+  padding: 3px;
+}
+.nav2 ul li a {
+  color: aliceblue;
+}
+.nav2 ul li a:hover {
+  color: rgb(40, 75, 116);
+}
+.mega-m ul li a {
+  color: black;
+}
+
+.dropdown-large {
+  padding: 20px;
+  min-width: 840px;
+}
+.mega-m ul {
+  padding-left: 7px;
+  border-left: 1px solid rgb(206, 205, 205);
+}
+
+.div3 .logo {
+  margin-left: 250px;
+}
+
+.logo img {
+  width: 80px;
+}
+
+.div4 img {
+  width: 850px;
+  margin-top: 40px;
+  margin-left: 240px;
+  padding-bottom: 40px;
+}
+
+.div4 .featured {
+  margin-top: 40px;
+  margin-left: 870px;
+  padding-bottom: 40px;
+  background-color: white;
+  height: fit-content;
+}
+.div4 .featured img {
+  width: 100px;
+  margin-left: auto;
+  margin-top: auto;
+}
+
+.div4 button {
+  border-radius: 0px;
+  width: 350px;
+  margin-left: 10px;
+  background-color: rgb(7, 23, 37);
+  color: aliceblue;
+}
+.div4 button:hover {
+  background-color: rgb(5, 5, 5);
+  color: aliceblue;
+}
+
+/*footer*/
+
+footer {
+  background-color: black;
+}
+footer button {
+  width: 300px;
+  outline: orange;
+}
+footer button:hover {
+  background-color: rgb(34, 34, 34);
+}
+footer button span {
+  color: white;
+}
+
+footer .div1 ul {
+  margin-top: 50px;
+}
+
+footer .div1 ul li {
+  background-color: rgb(48, 48, 48);
+  border: 1px solid black;
+  border-left: 3px solid gray;
+  width: 300px;
+  padding: 10px;
+  color: white;
+}
+footer .div1 ul li:hover {
+  border-left: 3px solid rgb(40, 75, 116);
+  color: rgb(79, 131, 190);
+}
+
+footer .dive2 {
+  margin-left: 50px;
+}
+
+footer .dive2 ul li {
+  width: 300px;
+  padding: 10px;
+  color: rgb(87, 87, 87);
+  border-bottom: 1px solid rgb(48, 48, 48);
+}
+footer .dive2 ul li:hover {
+  color: white;
+}
+
+footer .footer {
+  background-color: rgb(48, 48, 48);
+}
+
+footer .footer p {
+  color: aliceblue;
+  padding: 10px;
+  margin-left: 600px;
+}
+
+.main button {
+  border-radius: 0px;
+  margin-left: 300px;
+}
